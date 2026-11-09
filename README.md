@@ -12,6 +12,19 @@
 
 ---
 
+## 📸 Screenshots / Programmansichten
+
+### 1. Dashboard & Karriere-Statistik (Dashboard & Career Statistics)
+![Strada Dashboard](dashboard.png)
+
+### 2. Interaktive Karte, Segmente & Höhenprofil (Map, Segments & Elevation Profile)
+![Strada Karte und Höhenprofil](chart_profile.png)
+
+### 3. Trainingszonen, Leistungskurve & MMP-Analyse (Training Zones & MMP Analysis)
+![Strada MMP und Trainingszonen](mmp.png)
+
+---
+
 ## 🇩🇪 Deutsch: Überblick & Funktionen
 
 **Strada** ist eine schnelle, komplett cloudfreie Desktop-Anwendung zur detaillierten Auswertung von Radtouren, Leistungsdaten, Segmenten und langfristigem Formverlauf. Alle Daten werden zu 100 % lokal in einer SQLite-Datenbank auf deinem eigenen Rechner gespeichert.
